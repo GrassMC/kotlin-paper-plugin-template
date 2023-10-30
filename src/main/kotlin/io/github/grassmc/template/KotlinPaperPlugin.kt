@@ -2,7 +2,7 @@ package io.github.grassmc.template
 
 import org.bukkit.plugin.java.JavaPlugin
 
-class PaperPlugin : JavaPlugin() {
+class KotlinPaperPlugin : JavaPlugin() {
     override fun onEnable() {
     }
 

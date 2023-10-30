@@ -14,7 +14,7 @@ description = prop("description").get()
 
 pluginYml {
     // https://github.com/GrassMC/paper-dev-gradle-plugin/issues/2
-    main = "io.github.grassmc.template.PaperPlugin"
+    main = "io.github.grassmc.template.KotlinPaperPlugin"
     // https://github.com/GrassMC/paper-dev-gradle-plugin/issues/3
     version = project.version as String
 }

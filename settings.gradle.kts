@@ -16,4 +16,4 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "paper-plugin-template"
+rootProject.name = "kotlin-paper-plugin-template"
