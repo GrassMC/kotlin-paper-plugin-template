@@ -1,0 +1,7 @@
+[versions]
+kotlin = "1.9.10"
+paper-dev = "0.1.1"
+
+[plugins]
+org-jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+io-github-grassmc-paperDev = { id = "io.github.grassmc.paper-dev", version.ref = "paper-dev" }
