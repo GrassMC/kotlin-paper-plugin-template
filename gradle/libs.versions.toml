@@ -1,6 +1,6 @@
 [versions]
 kotlin = "1.9.21"
-paper-dev = "0.2.0"
+paper-dev = "0.2.4"
 
 [plugins]
 org-jetbrains-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
