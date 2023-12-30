@@ -10,10 +10,6 @@
 - Run `./gradlew build` to build the plugin.
 - The built plugin will be in `build/libs`.
 
-## Credits
-
-- `.idea/icon.svg` licensed by [PaperMC](https://papermc.io).
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
