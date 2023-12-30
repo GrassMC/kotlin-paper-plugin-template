@@ -1,19 +1,12 @@
 pluginManagement {
     repositories {
-        mavenCentral()
         gradlePluginPortal()
+        maven("https://grassmc-repo.s3.ap-southeast-1.amazonaws.com/")
     }
 }
 
 plugins {
-    id("org.gradle.toolchains.foojay-resolver-convention") version "0.7.0"
-}
-
-dependencyResolutionManagement {
-    @Suppress("UnstableApiUsage")
-    repositories {
-        mavenCentral()
-    }
+    id("io.github.grassmc.infra") version "0.1.2"
 }
 
 rootProject.name = "kotlin-paper-plugin-template"

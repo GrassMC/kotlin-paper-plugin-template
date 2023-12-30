@@ -4,7 +4,7 @@
 
 ## How to build plugin
 
-- Add your plugin code to `src/main/kotlin`.
+- Add your plugin code to `src`.
 - Configure the `gradle.properties` file.
 - Configure the `build.gradle.kts` file.
 - Run `./gradlew build` to build the plugin.

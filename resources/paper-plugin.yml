@@ -1,0 +1,5 @@
+#file: noinspection YAMLSchemaValidation
+name: $name
+main: $main
+version: $version
+api-version: 1.19
