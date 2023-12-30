@@ -83,3 +83,9 @@ gradle-app.setting
 ### Gradle Patch ###
 # Java heap dump
 *.hprof
+
+### Infra Gradle ###
+.run-paper
+
+### Kotlin ###
+.kotlin
